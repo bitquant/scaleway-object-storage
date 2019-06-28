@@ -1,0 +1,27 @@
+{
+  "name": "scaleway-object-storage",
+  "version": "0.0.1",
+  "description": "Read and write objects to Scaleway Object Storage using fetch()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/scaleway-object-storage.git"
+  },
+  "keywords": [
+    "scaleway",
+    "object",
+    "storage"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/scaleway-object-storage/issues"
+  },
+  "homepage": "https://github.com/bitquant/scaleway-object-storage#readme",
+  "dependencies": {
+    "amazon-s3": "0.0.6"
+  }
+}
